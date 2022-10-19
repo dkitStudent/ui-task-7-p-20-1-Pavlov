@@ -72,7 +72,7 @@
                     </Button.Background>
                 </Button>
             </StackPanel>
-            <Button VerticalAlignment="Top" Margin="10" HorizontalAlignment="Right" Grid.Column="0" Style="{StaticResource MaterialDesignFlatButton}">
+            <Button VerticalAlignment="Top" Margin="10" HorizontalAlignment="Right" Grid.Column="0" Style="{StaticResource MaterialDesignFlatButton}" Click="Button_Click" Cursor="Hand">
                 <materialDesign:PackIcon Kind="Close"/>
             </Button>
             <Border CornerRadius="0 10 10 0" Grid.Column="1" >

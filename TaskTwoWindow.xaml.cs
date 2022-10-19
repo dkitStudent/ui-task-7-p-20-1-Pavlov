@@ -23,5 +23,10 @@ namespace ui_task_7_p_20_1_Pavlov
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            App.Current.Shutdown();
+        }
     }
 }
