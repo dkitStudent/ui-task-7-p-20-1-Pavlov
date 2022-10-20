@@ -86,7 +86,7 @@
                 <Grid>
                     <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
                         <TextBlock FontSize="15" Text="К оплате" Foreground="{StaticResource PrimaryHueDarkForegroundBrush}" HorizontalAlignment="Center" Effect="{StaticResource MaterialDesignShadowDepth1}"/>
-                        <TextBlock FontSize="80" Text="1025 Р" Foreground="{StaticResource PrimaryHueDarkForegroundBrush}" HorizontalAlignment="Center" Effect="{StaticResource MaterialDesignShadowDepth1}"/>
+                        <TextBlock FontSize="80" Text="1025 ₽" Foreground="{StaticResource PrimaryHueDarkForegroundBrush}" HorizontalAlignment="Center" Effect="{StaticResource MaterialDesignShadowDepth1}"/>
                     </StackPanel>
                     <Button VerticalAlignment="Bottom" Background="{x:Null}" BorderBrush="{x:Null}">
                         <StackPanel Orientation="Horizontal">

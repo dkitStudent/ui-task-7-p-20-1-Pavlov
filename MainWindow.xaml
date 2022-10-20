@@ -48,7 +48,7 @@
                     </Button>
                     </StackPanel>
                 <StackPanel Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10">
-                    <TextBlock Text="Практимческая работа №7"/>
+                    <TextBlock Text="Практическая работа №7"/>
                 </StackPanel>
             </Grid>
         </materialDesign:DialogHost>
